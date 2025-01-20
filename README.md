@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethasinghekavini&label=Profile%20views&color=0e75b6&style=flat" alt="geethasinghekavini" /> </p>
  
 
-- 🔭 I’m currently working on **Trade Credit Portal using ReactJs, C# and .NETcore**
 
 - 🌱 I’m currently learning **dotnet core, azure functions, NextJS, Flutter and ML**
 
@@ -18,7 +17,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kavini-geethasinghe-3a12a0218/](https://www.linkedin.com/in/kavini-geethasinghe-3a12a0218/)
 
-- ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
