@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavini Geethasinghe</h1>
 <h3 align="center">A passionate Full Stack developer and a tech enthusiast,Eager to explore endless possibilities of technology and ready to make a difference with the bearing Skillset.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethasinghekavini&label=Profile%20views&color=0e75b6&style=flat" alt="geethasinghekavini" /> </p>
+
  
-
-
 - 🌱 I’m familiar with **dotnet core, azure functions, NextJS, Python, ReactJS, ML and Computer Vision**
 
 - 📝 my UI designs on [https://www.behance.net/kavinigeethas](https://www.behance.net/kavinigeethas)
